@@ -16,7 +16,7 @@ No continuous tracking of CPU, memory or disk usage meant problems were discover
 
 ## Tool selection
 
-| | Nagios | Prometheus | **Zabbix** ✔ |
+| | Nagios | Prometheus | **Zabbix (selected)** |
 |---|---|---|---|
 | Data collection | External scripts | Pull of HTTP metrics | Native agents, **SNMP**, logs |
 | Visualisation | Basic | External (Grafana) | **Built-in dashboards & graphs** |
